@@ -1,3 +1,7 @@
 hello everyone this my 
 this is for learning
-<h1>for making </h1>
+<h1>learning</h1>
+<h2>git init</h2>
+<h2>git add .</h2>
+<h2>git remote add main http </h2>
+<h2>git push origin main</h2>
