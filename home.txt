@@ -1,7 +1,11 @@
-hello everyone this my 
-this is for learning
+<html>
+<body>
+<p>hello everyone this my sample 3 demo session
+this is for learning</p>
 <h1>learning</h1>
 <h2>git init</h2>
 <h2>git add .</h2>
 <h2>git remote add main http </h2>
 <h2>git push origin main</h2>
+</body>
+</html>
