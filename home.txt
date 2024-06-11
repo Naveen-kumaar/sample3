@@ -1,3 +1,6 @@
+<<<<<<< HEAD
+hello everyone this my sample 3 learn
+=======
 <html>
 <body>
 <p>hello everyone this my sample 3 demo session
@@ -9,3 +12,4 @@ this is for learning</p>
 <h2>git push origin main</h2>
 </body>
 </html>
+>>>>>>> branch2
